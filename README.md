@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Nuitka-2D2D2D?style=for-the-badge&logo=python&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Capstone-F03232?style=for-the-badge&logo=capstone&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Git-F08432?style=for-the-badge&logo=git&logoColor=white" height="35">
 </p>
 
 ---
@@ -46,10 +48,15 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
   <a href="https://dzen.ru/threatbit">
-    <img src="https://img.shields.io/badge/Dzen-ThreatBit-004CFF?style=for-the-badge&logo=yandex&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Dzen-Threatbit-004CFF?style=for-the-badge&logo=yandex&logoColor=white" height="40">
   </a>
+  
+  <a href="https://habr.com/ru/users/2M12/">
+    <img src="https://img.shields.io/badge/Habr-145166?style=for-the-badge&logo=habr&logoColor=white" height="40">
+  </a>
+  
   <a href="https://github.com/2M12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/GitHub-191919?style=for-the-badge&logo=github&logoColor=white" height="40">
   </a>
 </p>
 
