@@ -48,9 +48,21 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
   <a href="https://dzen.ru/threatbit">
-    <img src="https://img.shields.io/badge/Dzen-Threatbit-004CFF?style=for-the-badge&logo=yandex&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Dzen-Threatbit-004CFF?style=for-the-badge&logo=dzen.ru&logoColor=white" height="40">
   </a>
-  
+
+  <a href="https://denuitkanizator-site.vercel.app">
+    <img src="https://img.shields.io/badge/DeNuitkanizator-FFBF00?style=for-the-badge&logo=website&logoColor=white" height="40">
+  </a>
+
+  <a href="https://dev.to/2m12">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" height="40">
+  </a>
+
+  <a href="https://medium.com/@20.mihail.chernov.05">
+    <img src="https://img.shields.io/badge/Medium-2E2E2E?style=for-the-badge&logo=medium&logoColor=white" height="40">
+  </a>
+
   <a href="https://habr.com/ru/users/2M12/">
     <img src="https://img.shields.io/badge/Habr-145166?style=for-the-badge&logo=habr&logoColor=white" height="40">
   </a>
