@@ -55,6 +55,10 @@
     <img src="https://img.shields.io/badge/DeNuitkanizator-FFBF00?style=for-the-badge&logo=website&logoColor=white" height="40">
   </a>
 
+  <a href="https://threatbitscanner.vercel.app/">
+    <img src="https://img.shields.io/badge/Threatbit Scanner-FF5445?style=for-the-badge&logo=website&logoColor=white" height="40">
+  </a>
+
   <a href="https://dev.to/2m12">
     <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" height="40">
   </a>
